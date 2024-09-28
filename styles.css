@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 3cm; /* Set margin to 3 cm for all sides */
     padding: 0;
-    background: url('images/your-background-image.jpg') no-repeat center center fixed; /* Background image */
+    background: url('image.jpg') no-repeat center center fixed; /* Background image */
     background-size: cover;
     color: #333;
 }
