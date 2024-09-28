@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 3cm; /* Set margin to 3 cm for all sides */
+    padding: 0;
+    background: url('C:/Users/User/OneDrive/Documents/Image for contnent/tech1.jpg') no-repeat center center fixed; /* Background image */
+    background-size: cover;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 123, 255, 0.8);
+    color: white;
+    border-bottom: 5px solid #0056b3;
+}
+
+section {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: black; /* Changed to black */
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: black; /* Changed to black */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: gray;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
