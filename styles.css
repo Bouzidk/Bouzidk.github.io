@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 3cm; /* Set margin to 3 cm for all sides */
     padding: 0;
-    background: url('C:/Users/User/OneDrive/Documents/Image for contnent/tech1.jpg') no-repeat center center fixed; /* Background image */
+    background: url('https://github.com/Bouzidk/Bouzidk.github.io/blob/main/tech1.jpg?raw=true') no-repeat center center fixed; /* Background image */
     background-size: cover;
     color: #333;
 }
